@@ -1,4 +1,4 @@
-Unnamed: 0,track_id,artist,song,release_date,total_weeks,peak_position,peak_streams,total_streams,release_month,release_season,first_peak_date,peak_season,language,genre,popularity,bpm,energy,danceability,loudness,valence,length,acousticness,artist_seperation,debut_position
+,track_id,artist,song,release_date,total_weeks,peak_position,peak_streams,total_streams,release_month,release_season,first_peak_date,peak_season,language,genre,popularity,bpm,energy,danceability,loudness,valence,length,acousticness,artist_seperation,debut_position
 0,61BaxM1NIcadLu3gtWm2uT,sadsvit,силуети,2022-10-28,126,1,263673,17102909,10.0,Fall,2022-11-03,Fall,Ukrainian,Rock,61.0,77.0,86.0,53.0,-7.0,39.0,177.0,2.0,61.0,1
 1,2QjOHCTQ1Jl3zawyYOpxh6,the neighbourhood,sweater weather,2013-04-22,234,16,75675,12393368,4.0,Spring,2022-10-13,Fall,English,Hip Hop,91.0,124.0,81.0,61.0,-3.0,40.0,240.0,5.0,91.0,171
 2,4MQmxIxM5CXKjdq4IrCWhd,sadsvit,касета,2021-12-13,154,1,296336,11790369,12.0,Winter,2024-11-28,Fall,Ukrainian,Rock,61.0,170.0,74.0,65.0,-7.0,63.0,144.0,30.0,61.0,53
